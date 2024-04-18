@@ -26,7 +26,7 @@ int main()
 	cout<<"she is cute" <<endl;
 	cout <<"she is less than 18 years  old" <<endl;
 	}
-	else if(age >= number2){
+	else if(age2 >= number2){
 	
 		cout<<" he is an adult "<< endl;
 		cout<<age <<"  he is married"<<endl;
